@@ -1,5 +1,5 @@
 # various scripts for sql server
-1. [sp_interpolate_message](https://github.com/iscenigmax/scripts-sqlserver/blob/master/sp_interpolate_message): 
+1. [sp_interpolate_message](https://github.com/iscenigmax/scripts-sqlserver/blob/master/sp_interpolate_message.sql): 
    * __description:__ script to interpolate a text message with a database query
    * __result:__ Today 2020-05-31 a query interpolation process was carried out with a text message on the server MYSERVER with version Microsoft SQL Server 2017
 
